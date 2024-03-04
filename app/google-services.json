@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532165391438",
+    "project_id": "emailreponsitory",
+    "storage_bucket": "emailreponsitory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532165391438:android:707a4cafdbc41fec537f1f",
+        "android_client_info": {
+          "package_name": "com.example.login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwPgAgkipcwJ7xPur8Hl3H7JxsH58xv98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
